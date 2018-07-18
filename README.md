@@ -1,3 +1,3 @@
 # website
 
-[polix.netlify.com/](https://polix.netlify.com/)
+[https://polix.js.org](https://polix.js.org)
