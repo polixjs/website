@@ -3,8 +3,8 @@ home: true
 actionText: 快速上手 →
 actionLink: /zh/guide/
 features:
-- title: 注解
-  details: 享受 注解式 的开发体验，不再用单独维护一份或多份路由文件。
+- title: 装饰器
+  details: 享受 装饰器式 的开发体验，不再用单独维护一份或多份路由文件。
 - title: 插件
   details: 各个lib不再依赖框架，用插件注入到框架中，展现项目的可配置性
 - title: 高性能
