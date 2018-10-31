@@ -11,8 +11,8 @@ footer: MIT Licensed | Copyright © 2018-present Ricky 泽阳
 
 <div class="features">
   <div class="feature">
-    <h2>annotations</h2>
-    <p>Enjoy the annotated development experience, no longer maintaining one or more routing files separately.</p>
+    <h2>decorator</h2>
+    <p>Enjoy the decorator development experience, no longer maintaining one or more routing files separately.</p>
   </div>
   <div class="feature">
     <h2>Plugin</h2>
