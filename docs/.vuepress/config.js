@@ -3,12 +3,12 @@ module.exports = {
     '/': {
       lang: 'en-US',
       title: 'Polix.js',
-      description: 'Annotations and Plugin Web Framework for Node.js'
+      description: 'Decorator and Plugin Web Framework for Node.js'
     },
     '/zh/': {
       lang: 'zh-CN',
       title: 'Polix.js',
-      description: 'Node.js 注解、插件式 Web框架'
+      description: 'Node.js 装饰器、插件式 Web框架'
     }
   },
   head: [
