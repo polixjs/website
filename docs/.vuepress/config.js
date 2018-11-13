@@ -54,6 +54,9 @@ module.exports = {
           },{
             text: 'Plugin',
             link: '/plugin/'
+          },{
+            text: 'Entity',
+            link: '/entity/'
           }
         ],
         sidebar: {
@@ -86,6 +89,9 @@ module.exports = {
           },{
             text: '插件',
             link: '/zh/plugin/'
+          },{
+            text: '实体',
+            link: '/zh/entity/'
           }
         ],
         sidebar: {
